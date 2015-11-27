@@ -2,7 +2,7 @@
 
 `Added in version 1.1`
 
-[LightPaper](http://lightpaper.ashokgelal.com)'s *RealPreview* allows you to see how your post would look like on a website when publish it before actually publishing it. You just add a URL of one of your existing online posts and the class name of your post's container and you are all set.
+[LightPaper](http://lightpaper.ashokgelal.com)'s *RealPreview* allows you to see how your post would look like on a website when you publish it before actually publishing it. You just add a URL of one of your existing online posts and the class name of your post's container and you are all set.
 
 You can add multiple sites as well and switch between them. Once the *RealPreview* is loaded you can keep typing and it gets automagically updated as well. The live preview of your real preview! Yep, Magic! :sparkles:
 
