@@ -74,5 +74,5 @@ Now, if you've provided a header class or and id and [LightPaper](http://lightpa
 ##### I know how to make this feature even better
 * Awesome! Please send us an email. Or even better - send us a feedback `Help>SendFeedback...` menu item
 
-With a little bit of cleanup, this is how this document would look like if it ever got covered by [The Guardian](https://theguardian.com):
+With a little bit of cleanup, this is how this document would look like if it ever got covered by [The Guardian](http://www.theguardian.com/us):
 ![The Guardian Sample](/screenshots/theguardian_sample.png)
