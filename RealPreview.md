@@ -8,7 +8,8 @@ You can add multiple sites as well and switch between them. Once the *RealPrevie
 
 ### Adding a site
 
-#### Steps
+### Steps
+
 1. Go to `LightPaper>Preferences>Real Preview` and click the `+` button
 2. Fill up the following fields:
 
@@ -48,30 +49,38 @@ title: <Your Title Goes Here>
 
 Now, if you've provided a header class or and id and [LightPaper](http://lightpaper.ashokgelal.com) can find it in the sample post, the title will be shown along with the post. There are few cases where header won't show up at all. Especially, if the site doesn't support it like GitHub for an example.
 
-### Troubleshooting
+## Troubleshooting
 
-##### `RealPreview` button is disabled
+**`RealPreview` button is disabled**
+
 * Make sure you have added at least 1 site and have selected a default site from `Styles>Real Preview` menu item.
 
-##### No page is displayed, I actually get a blank page
+**No page is displayed; I actually get a blank page**
+
 * Make sure you are connected to the Internet when you add the site.
 
-##### The external window is open but it doesn't show the `RealPreview` just the regular preview
+**The external window is open but it doesn't show the `RealPreview` just the regular preview**
+
 * Make sure you have actually enabled it by clicking the `RealPreview` button. It should be blue when it is turned on.
 
-##### I can't see my title or my post
+**I can't see my title or my post**
+
 * Make sure you have provided the right class names or ids for your containers. Go to `LightPaper>Preferences...>Real Preview` and make sure of it.
 
-##### I believe I did everything right but still nothing
+**I believe I did everything right but still nothing**
+
 * Ok, fire us an email. We'll try sort it out. 
 
-##### I can see my post but not the title even though I've provided the right values
+**I can see my post but not the title even though I've provided the right values**
+
 * There could be couple of reasons why this would happen. It could be that the site actually doesn't support the concept of "a title". If it does support, then it could be that your header/title container is inside the post/ article container and hence is overridden. There is not much we could do to fix this problem. If possible, you can change your blog to make sure the header/title container is outside of the post/article container.
 
-##### I can't find my containers' class names or ids
+**I can't find my containers' class names or ids**
+
 * Please keep looking. There are millions of blogs out there and thousands of themes available for those blogs so it is very difficult for us to either categorize them or offer a one-to-one help. You can [create a ticket here in GitHub](https://github.com/42Squares/LightPaper/issues) asking for help and see if we or someone else helps you out by looking at the source of your blog and finding out those values. Please don't judge us.
 
-##### I know how to make this feature even better
+**I know how to make this feature even better**
+
 * Awesome! Please send us an email. Or even better - send us a feedback `Help>SendFeedback...` menu item
 
 With a little bit of cleanup, this is how this document would look like if it ever got covered by [The Guardian](http://www.theguardian.com/us):
