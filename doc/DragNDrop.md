@@ -8,7 +8,7 @@ One of the things that people struggle with Markdown, and that includes me, is r
 
 Often times I've found myself just dragging and dropping links and then "fixing" it. Now with [LightPaper](http://lightpaper.ashokgelal.com/) 1.1 all you have to do is just select a text (or not) and drop links from your browser address bar or drop your images. What's even better is that you can select multiple texts and then drop your link(s); [LightPaper](http://lightpaper.ashokgelal.com/) takes care of inserting paths to all those selected texts and preserves the selection(s). Try selecting multiple texts -- press ⌘ and select -- and dropping a URL. Once you are done typing link title, just hit tab or enter key and you'll be taken to the end of the link so that you can continue typing.
 
-![gif for link drag-and-drop](screenshots/links_drag_drop.gif)
+![gif for link drag-and-drop](https://raw.githubusercontent.com/42Squares/LightPaper/master/screenshots/links_drag_drop.gif)
 
 ### Relative Paths for Images
 
@@ -16,7 +16,7 @@ Ver 1.0 not only fixed issues with relative paths for images but also added a wa
 
 Ver 1.1 takes this to the next step - when you drag and drop images it "calculates" the paths in relative to your base folder automatically for you. This way you don't have to go and correct your paths.
 
-![gif for image drag-and-drop](screenshots/image_drag_drop.gif)
+![gif for image drag-and-drop](https://raw.githubusercontent.com/42Squares/LightPaper/master/screenshots/image_drag_drop.gif)
 
 Please try out this new feature and let me know what you think of it.
 
