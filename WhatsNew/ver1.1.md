@@ -14,11 +14,17 @@
 * Jekyll table output is now supported in MultiMarkdown mode as well
 * About 30% of the code has been rewritten using the latest Swift programming language. This makes us very happy :)
 * Word counting algorithm as been optimized and is only calculated when needed
-* Improves memory and CPU consumption
+* You can now use spaces instead of tabs. Change it from the Preferences window
+* Duplicate line(s), move line(s) up or down - all with shortcuts. Access them from Edit menu item
+* Detects external file changes and reload (Resolves #18)
+* Improves memory and CPU consumption 
 
 #### BUG FIXES
 
-* Fixes a bug where it would crash for some users while using GitHub Flavored Markdown
-* Fixes a bug where the Jekyll table wouldn't be hidden
-* Fixes auto-bulleting for triple dashes (---)
-* Fixes some more memory leaks
+* Fixed a bug where it would crash for some users while using GitHub Flavored Markdown
+* Fixed a bug where the Jekyll table wouldn't be hidden
+* Fixed auto-bulleting for triple dashes (---)
+* Bring back services menu
+* Fixed HTML export encoding
+* Fixed some random crashes for some users
+* Fixed some more memory leaks
