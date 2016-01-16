@@ -1,6 +1,6 @@
 #### Mermaid + LightPaper = ❤️
 
-## Adding diagrams to your documents using Mermaid
+## Adding diagrams to your documents using Mermaid and LightPaper
 
 [Mermaid](http://knsv.github.io/mermaid/#mermaid) is a JavaScript library accompanied by couple of CSS files that allows you to add diagrams to your documents using Markdown like syntax. It's really pretty sleek.
 
@@ -59,6 +59,7 @@ Also, you can find other CSS styles and the latest versions of Mermaid here: htt
 
 ## Alternate Mermaid Syntax
 If you're one of those who doesn't like adding html elements, like `<div class="mermaid">` above, to your Markdown documents then there is a better way. You can teach LightPaper to allow you to use familiar [GitHub fenced code blocks syntax](https://help.github.com/articles/github-flavored-markdown/#fenced-code-blocks):
+
 1. Go to `Preferences...>Script Assets` (if it is hidden, click on the `>>` button)
 2. Click on `+ On Update Callback Script` and append `mermaid.init(null, '.language-mermaid');` and click `Save`.
 
