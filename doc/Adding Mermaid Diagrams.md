@@ -27,6 +27,7 @@ Now let's add some diagrams using Mermaid syntax:
 </div>
 ```
 You should see something like this:
+
 ![](https://raw.githubusercontent.com/42Squares/LightPaper/master/screenshots/mermaid_sample_1.png)
 
 ### Sequence Diagram example:
@@ -48,6 +49,7 @@ You should see something like this:
 ```
 
 You should see something like this:
+
 ![](https://raw.githubusercontent.com/42Squares/LightPaper/master/screenshots/mermaid_sample_2.png)
 
 Cool, huh?
