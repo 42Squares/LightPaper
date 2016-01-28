@@ -4,7 +4,7 @@
 
 [Mermaid](http://knsv.github.io/mermaid/#mermaid) is a JavaScript library accompanied by couple of CSS files that allows you to add diagrams to your documents using Markdown like syntax. It's really pretty sleek.
 
-With the introduction of `Script Assets` in [LightPaper version 1.2](https://github.com/42Squares/LightPaper/blob/master/WhatsNew/ver1.2.md), adding Mermaid documents in your documents is a piece of cake. These are the initial and "one time only" steps required:
+With the introduction of `Script Assets` in [LightPaper version 1.2](http://blog.42squares.in/2016/01/16/lightpaper-1-2-is-here/), adding Mermaid documents in your documents is a piece of cake. These are the initial and "one time only" steps required:
 
 1. Go to `Preferences...>Script Assets` (if it is hidden, click on the `>>` button)
 2. Click on the `+` button and add `https://cdnjs.cloudflare.com/ajax/libs/mermaid/0.5.6/mermaid.min.js` for **File Source** and `Mermaid JS` for **Name** and click `Add`.
@@ -60,7 +60,7 @@ Also, you can find other CSS styles and the latest versions of Mermaid here: htt
 
 
 ## Alternate Mermaid Syntax
-If you're one of those who doesn't like adding html elements, like `<div class="mermaid">` above, to your Markdown documents then there is a better way. You can teach LightPaper to allow you to use familiar [GitHub fenced code blocks syntax](https://help.github.com/articles/github-flavored-markdown/#fenced-code-blocks):
+If you're one of those who doesn't like adding html elements, like `<div class="mermaid">` above, to your Markdown documents then there is a better way. You can "teach" LightPaper to allow you to use familiar [GitHub fenced code blocks syntax](https://help.github.com/articles/github-flavored-markdown/#fenced-code-blocks):
 
 1. Go to `Preferences...>Script Assets` (if it is hidden, click on the `>>` button)
 2. Click on `+ On Update Callback Script` and append `mermaid.init(null, '.language-mermaid');` and click `Save`.
