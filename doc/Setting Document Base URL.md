@@ -54,7 +54,7 @@ This makes sense too - you said "every thing is relative to this document's pare
 
 Now the other 2 options are only available if you have opened a folder and have opened `docB.md` from the folder navigator. This is what you'd do if, say, you were using a [Jekyll][1] site. 
 
-Let's assume that you have opened `/Users/JaneDoe/Desktop` folder and opened `docB.md` by double-clicking or by using LightPaper's [Quick Open](http://lightpaper.42squares.in/#multitabs-container) feature.
+Let's assume that you have opened `/Users/JaneDoe/Desktop` folder and opened `docB.md` by double-clicking or by using [LightPaper][2]'s [Quick Open](http://lightpaper.42squares.in/#multitabs-container) feature.
 
 3) Set document's base URL to: **Sidebar's Root Folder**:
 
@@ -68,6 +68,7 @@ When you selected `Sidebar's Root Folder`, you set the base path to `/Users/Jane
 
 You set the path to `DirectoryC` and hence `C.png` gets rendered. This is really really useful if you are editing [Jekyll][1] files.
 
+Also, as a convenience, [LightPaper][2] remembers your selected option for a document. So, once you set a base URL, you don't have to set it again.
 
 | Image Path                              | Base URL Option            | Renders                          | Condition                                                                            |
 |-----------------------------------------|----------------------------|----------------------------------|--------------------------------------------------------------------------------------|
