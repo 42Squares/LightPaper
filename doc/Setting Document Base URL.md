@@ -1,7 +1,7 @@
 ## Setting base URL for a document
 `Added in version 1.3`
 
-Setting correct URL determines how your local assets, such as images, will be rendered in [LightPaper][2]. It might look a little bit daunting at first but this is a very useful feature.
+Setting a base URL determines how your local assets, such as images, will be rendered in [LightPaper][2]. It might look a little bit daunting at first but this is a very useful feature.
 
 If you are editing/rendering a document from a folder and you have referenced images from a different folder, this is something you really want to know. This is also a useful feature if you are writing documents using static site generators such as [Jekyll][1].
 
