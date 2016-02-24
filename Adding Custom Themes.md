@@ -32,7 +32,7 @@ Here are some of the themes that are already available publicly on GitHub that y
 
 Clone one or all of the above themes under `~/.lightpaper/Themes` and you are all set. You can select a theme for the editor and/ or for the preview from the Preferences pane (`LightPaper>Preferences…` or `⌘,`). If two themes share the same name, only one of them will be picked. If you want to write your own theme, we recommend you to use one of the above mentioned themes as a template.
 
-If you want to add a link to your themes or some other themes that you know, ping me at [@ashokgelal] [twitter] or fork this document and send us a pull request. Or you can also send us an email: [hello42squares@gmail.com] [email] 
+If you want to add a link to your themes or some other themes that you know, ping us at [@lightpaperapp] [twitter] or fork this document and send us a pull request. Or you can also send us an email: [hello@42squares.in] [email] 
 
 [themes]: http://lightpaper.ashokgelal.com/?utm_source=github&utm_medium=howto&utm_campaign=support
 [1]: https://github.com/designerJordan/md-dashing-theme
@@ -49,5 +49,5 @@ If you want to add a link to your themes or some other themes that you know, pin
 [12]: https://github.com/chrissimpkins/snowball
 [13]: https://github.com/Kikobeats/mou-theme-flatland
 [14]: https://github.com/a1ee9b/PrintPretty
-[twitter]: https://twitter.com/ashokgelal
-[email]: mailto:hello42squares@gmail.com
+[twitter]: https://twitter.com/lightpaperapp
+[email]: hello@42squares.in
