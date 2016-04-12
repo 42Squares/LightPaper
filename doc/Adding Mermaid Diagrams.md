@@ -70,13 +70,13 @@ That's it!
 Now let's add a Flowchart using fenced code syntax:
 
 ```html
- ```mermaid
-       graph TD;
-         A-->B;
-         A-->C;
-         B-->D;
-         C-->D;
- ```
+    ```mermaid
+        graph TD;
+          A-->B;
+          A-->C;
+          B-->D;
+          C-->D;
+    ```
 ```
 
 If you see some weird whitespace and ugly background color, you can add following global styles in `Preferences...>Custom CSS` (thanks [@mmatti](https://twitter.com/mmatti)):
