@@ -1,4 +1,4 @@
-#### Mermaid + LightPaper = ❤️
+#### LightPaper ❤ Mermaid
 
 ## Adding diagrams to your documents using Mermaid and LightPaper
 
