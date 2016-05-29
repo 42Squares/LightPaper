@@ -7,8 +7,8 @@
 With the introduction of `Script Assets` in [LightPaper version 1.2](http://blog.42squares.in/2016/01/16/lightpaper-1-2-is-here/), adding Mermaid documents in your documents is a piece of cake. These are the initial and "one time only" steps required:
 
 1. Go to `Preferences...>Script Assets` (if it is hidden, click on the `>>` button)
-2. Click on the `+` button and add `https://cdnjs.cloudflare.com/ajax/libs/mermaid/0.5.6/mermaid.min.js` for **File Source** and `Mermaid JS` for **Name** and click `Add`.
-3. Click on the `+` button again and add `https://cdnjs.cloudflare.com/ajax/libs/mermaid/0.5.6/mermaid.forest.min.css` for **File Source** and `Mermaid CSS` for **Name** and click `Add`.
+2. Click on the `+` button and add `https://cdnjs.cloudflare.com/ajax/libs/mermaid/0.5.8/mermaid.min.js` for **File Source** and `Mermaid JS` for **Name** and click `Add`.
+3. Click on the `+` button again and add `https://cdnjs.cloudflare.com/ajax/libs/mermaid/0.5.8/mermaid.forest.min.css` for **File Source** and `Mermaid CSS` for **Name** and click `Add`.
 4. Click on `+ On Update Callback Script` and add `mermaid.init(null, '.mermaid');` and click `Save`.
 
 That's it! You are all set!!
