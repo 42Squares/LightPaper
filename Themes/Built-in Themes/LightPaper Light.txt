@@ -1,0 +1,76 @@
+# Light color scheme for LightPaper Mini (http://lightpaper.ashokgelal.com)
+# by @ashokgelal
+
+editor
+background: fefefe
+foreground: 3F475A
+caret: 787ea0
+
+editor-selection
+background: 33687091
+
+H1
+foreground: 257FAD
+
+H2
+foreground: 257FAD
+
+H3
+foreground: 257FAD
+
+H4
+foreground: 257FAD
+
+H5
+foreground: 257FAD
+
+H6
+foreground: 257FAD
+
+HRULE
+foreground: 99414D73
+
+LIST_BULLET
+foreground: 995E6687
+
+LIST_ENUMERATOR
+foreground: 995E6687
+
+LINK
+foreground: 519548
+
+AUTO_LINK_URL
+foreground: 519548
+
+AUTO_LINK_EMAIL
+foreground: 519548
+
+IMAGE
+foreground: 519548
+
+REFERENCE
+foreground: 997C60A4
+
+CODE
+foreground: 918B3B
+
+EMPH
+foreground: D22D72
+font-style: italic
+
+STRONG
+foreground: D22D72
+font-style: bold
+
+HTML_ENTITY
+foreground: 519548
+
+COMMENT
+foreground: 556272a4
+
+VERBATIM
+foreground: 918B3B
+
+BLOCKQUOTE
+foreground: d33682
+

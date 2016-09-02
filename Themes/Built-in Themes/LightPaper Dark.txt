@@ -1,0 +1,76 @@
+# 'Dracula' color scheme
+# Dark color scheme for LightPaper Mini (http://lightpaper.ashokgelal.com)
+# by @ashokgelal
+
+editor
+background: 222222 # Background
+foreground: f8f8f2 # Foreground
+caret: ECECEC
+
+editor-selection
+background: 55EEE8D5 # Selection
+
+H1
+foreground: 7AC8FF
+
+H2
+foreground: 7AC8FF
+
+H3
+foreground: 7AC8FF
+
+H4
+foreground: 7AC8FF
+
+H5
+foreground: 7AC8FF
+
+H6
+foreground: 7AC8FF
+
+HRULE
+foreground: 323A52
+
+LIST_BULLET
+foreground: AAAAAA
+
+LIST_ENUMERATOR
+foreground: AAAAAA
+
+LINK
+foreground: 99f1fa8c
+
+AUTO_LINK_URL
+foreground: 99f1fa8c
+
+AUTO_LINK_EMAIL
+foreground: 99f1fa8c
+
+IMAGE
+foreground: 99f1fa8c
+
+REFERENCE
+foreground: 997C60A4
+
+CODE
+foreground: 3EC196
+
+EMPH
+foreground: FF8484
+font-style: italic
+
+STRONG
+foreground: FF8484
+font-style: bold
+
+HTML_ENTITY
+foreground: 6650fa7b
+
+COMMENT
+foreground: 556272a4
+
+VERBATIM
+foreground: 3EC196
+
+BLOCKQUOTE
+foreground: ffb86c
