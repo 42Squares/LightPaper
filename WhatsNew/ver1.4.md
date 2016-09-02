@@ -37,3 +37,10 @@ We'll be adding more documentation about Plugins and Snippets on our official Li
 * Fixed a bug where distraction free mode would show a white border when using a dark theme
 * Multiple copies of mini documents are opened instead of selecting the tab
 * Other few minor bugfixes
+
+
+## 1.4 Beta
+* Remove fixed header font size from LightPaper themes
+* Clicking out of a pinned shadow note without hitting save causes the data to be lost. Unpinned shadow notes don't exhibit this behavior
+* CMD+3 should close the external window if it is already open
+* CMD+S doesn't work for an untitled document
